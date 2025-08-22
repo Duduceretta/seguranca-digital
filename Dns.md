@@ -8,3 +8,5 @@ TCP - Recebe um ok, confirmação de recebimento (download)
 UDP - Sem confirmação, (Transmissão ao vivo, online)
 
 DNS -> Gateway -> Traz o dominio do site buscado
+
+DDNS - Dynamic Domain name system
